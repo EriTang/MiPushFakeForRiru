@@ -19,7 +19,7 @@ MiPushFramework with value map below
 * `ro.product.brand` -> `Xiaomi`	
 * `ro.product.name` -> `Xiaomi`	
 
-## Configuration
+## Configuratio
 
 ### Packages
 
