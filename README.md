@@ -20,7 +20,6 @@ MiPushFramework with value map below
 * `ro.product.name` -> `Xiaomi`	
 
 ## Configuration
-
 ### Packages
 
 `/data/adb/riru/modules/mipush_fake/packages/<package name>`
